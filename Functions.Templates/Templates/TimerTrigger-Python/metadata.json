@@ -1,0 +1,14 @@
+{
+    "defaultFunctionName": "TimerTriggerPython3",
+    "description": "$TimerTrigger_description",
+    "name": "Timer trigger",
+    "language": "Python",
+    "category": [
+        "$temp_category_experimental"
+    ],
+    "categoryStyle": "timer",
+    "enabledInTryMode": true,
+    "userPrompt": [
+        "schedule"
+    ]
+}
